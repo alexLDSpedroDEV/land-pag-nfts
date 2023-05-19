@@ -5,8 +5,13 @@ JS mas como fazia muito tempo que não escrevia código sem Bootstrap tive dific
 
   o projeto ficou bem legal gostei do resultado. Eu upei ele no meu GitHub e no netlify para fazer teste pratico,
 se alguém tiver tempo livre e me der uns toque de como otimizar e melhoria no meu código eu ficaria agradecido.
-GitHub:
-https://lnkd.in/damcvnmP
+
+Oque eu utilizei no projeto:
+- HTML
+- CSS ( mobile first, responsividade ).
+- JavaScript
+
+
 
 
 ![imgs1](https://github.com/alexLDSpedroDEV/land-pag-nfts/assets/115034319/ef59d2e8-ef34-463b-948a-897275069b4b)
@@ -16,9 +21,10 @@ https://lnkd.in/damcvnmP
 ![imgs5](https://github.com/alexLDSpedroDEV/land-pag-nfts/assets/115034319/056ee4b3-c70b-4dc3-a847-3335a509ac25)
 ![imgs6](https://github.com/alexLDSpedroDEV/land-pag-nfts/assets/115034319/234d9bc1-ce5a-4197-b541-44865da5b851)
 
+Aonde encontrar o projeto:
+  GitHub: https://lnkd.in/damcvnmP
+  Netlify:land-pag-nfts.netlify.app 
 
-Netlify:
-land-pag-nfts.netlify.app
 
 obrigado a todo que leram, tenham um bom dia
 #css #html #github #js #procurandoemprego #programação #legal
